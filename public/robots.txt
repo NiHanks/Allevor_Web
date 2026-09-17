@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://allevor.com/sitemap.xml
